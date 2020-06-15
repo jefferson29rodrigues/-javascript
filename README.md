@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson29rodrigues/-javascript)
+![GitHub top language](https://img.shields.io/github/languages/top/jefferson29rodrigues/-javascript)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jefferson29rodrigues/-javascript)
 ![GitHub](https://img.shields.io/github/license/jefferson29rodrigues/-javascript)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jefferson_pqd2?label=Seguir&style=social)
